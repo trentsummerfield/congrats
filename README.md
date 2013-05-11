@@ -1,6 +1,3 @@
-congrats
-========
-
 Display fireworks and a message in the terminal.
 
 Usage
@@ -9,5 +6,6 @@ Usage
 
 System Requirements
 -------------------
-Requires ncurses
+Requires ncurses.
+
 I know it works on debian using rxvt-unicode. Your milage may vary.
